@@ -1,0 +1,2866 @@
+commit b80b19e7ecf236ca2bbc605c0ffc23e39c4654a2
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Feb 3 13:34:12 2020 -0800
+
+    Update to recording for test harness
+
+commit d4893957aba73539c47807204cf01a2521837d85
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Feb 3 13:15:19 2020 -0800
+
+    Update Google speech recording
+
+commit 6f2ec644513fd1fd2b239534588031ec8580de03
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Feb 3 12:51:08 2020 -0800
+
+    Change back Corey defaults
+
+commit 74bfa772da21d85c93aa3f9a143d50fab777b064
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Feb 3 12:49:14 2020 -0800
+
+    Google STT support updates
+
+commit 72e377c8c53fa224586f4e20807ff749cb71b74a
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Jan 31 18:13:52 2020 -0800
+
+    Start of Google Text to Speech
+
+commit a09bc09c9f55331bbb5e5755526c8e4b323aeaa0
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Jan 31 13:26:09 2020 -0800
+
+    Start of TTS updates
+
+commit ebce783bf8570f481c4e5f5c0803a0983fe47303
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Jan 31 10:40:21 2020 -0800
+
+    About screen update
+
+commit e305aa8f654db16911881342e73fe43ae5c0edcd
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 30 18:16:37 2020 -0800
+
+    Suunto dialog updates
+
+commit e699d08d112d66d14030f6b4bb5b9bfa37a0d771
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 30 16:12:04 2020 -0800
+
+    Chat UI updates
+
+commit 1031d139741ce933ac8e459ccbe8e9295402f88d
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 30 15:46:26 2020 -0800
+
+    Update to chat test harness
+
+commit 3a4da9f9b2832ce569364707970abb12041329f6
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 30 13:24:06 2020 -0800
+
+    New Suunto images
+
+commit 1c9ed9572a21ca75c0a6ecec238a1abd990b8a21
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 30 12:25:37 2020 -0800
+
+    Taking out outdated demo mode
+
+commit 0d01b44474bd79d3da12701cf8b62927829812b0
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 30 12:03:21 2020 -0800
+
+    Suunto face updates
+
+commit f7be80142f36d44a8c499d32cf7628c6a0adaa26
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Jan 29 17:29:36 2020 -0800
+
+    Suunto art update
+
+commit cb221e2c43d04b3ed361ace5ef4ed27412b9f6b2
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Jan 29 17:02:44 2020 -0800
+
+    Suunto first pass
+
+commit c03cb1e03d0f8a7b676759eecd359f27debbd4b0
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Jan 29 15:10:23 2020 -0800
+
+    Suunto first watch face
+
+commit 367d665cf5fd28728a5fc10c3cd27b88251f7f0d
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Jan 29 13:22:02 2020 -0800
+
+    Unity recorder added to project
+
+commit 38dabcc0b59ee82920f4ed08a4308b6bf390b807
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Jan 29 12:33:49 2020 -0800
+
+    iOS cleanup
+
+commit 0493ee2727e677de991132a8a972afc1e1ce399d
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Jan 29 12:17:55 2020 -0800
+
+    Update ios voice plugin
+
+commit 5d65c5547e8b0fd1fdf59a74b161b8b5d7102798
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Jan 29 12:13:59 2020 -0800
+
+    Suunto updates
+
+commit 87e241ae04a8ef1e39b082dec1c480b4dd8851c3
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Jan 28 11:12:42 2020 -0800
+
+    Watch speaking UI update
+
+commit 205c250f2a80f50dd761d5c5a261ca1d40d4bad9
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Jan 28 11:10:41 2020 -0800
+
+    Watch start
+
+commit 7054c01297a0416715b6297381988cc9852480d7
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Jan 27 14:51:12 2020 -0800
+
+    iOS audio updates
+
+commit 0affe03c450cd91e8ac72815dd5ef606248cadc4
+Merge: ab1a5b25 c32b5cba
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Mon Jan 27 14:46:15 2020 -0800
+
+    Merge pull request #32 from StayWell-Labs/master-codemetrics
+    
+    UI speaking updates
+
+commit c32b5cba4b42ce43b93b6150cce05df1da859313
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 23 17:40:27 2020 -0800
+
+    UI speaking updates
+
+commit ab1a5b250a11902453f91882150b388d34da0022
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 23 12:08:29 2020 -0800
+
+    Stomach ache dialog update
+
+commit e4fcdd3405e81416a559aa227d592113bc83f176
+Merge: c41656e7 084cae94
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Wed Jan 22 13:32:03 2020 -0800
+
+    Merge pull request #30 from StayWell-Labs/IOS-new-Speech-Plugin
+    
+    new plugin text to speech
+
+commit 084cae94e61f8b56cfbbf38ecda90d6b31f13280
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Jan 22 13:28:39 2020 -0800
+
+    new plugin text to speech
+
+commit c41656e794def407a003fcea01a7ccfdc07a764c
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Jan 22 12:09:35 2020 -0800
+
+    Platform UI updates
+
+commit 05186ed9436db4410dbbfd0d87600675f9745f8f
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Jan 20 16:57:20 2020 -0800
+
+    Beep, minor UI updates
+
+commit 67344b53a6701038af9119fc7ea6a6ac37b20700
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Jan 20 15:36:03 2020 -0800
+
+    New img_tag
+
+commit dccb2c1f9608f112d9eaed141d016d0cb31d329f
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Jan 20 14:03:27 2020 -0800
+
+    Native STT option support
+
+commit e8a50d105a538e4308f64e7850155a7c02ef1af2
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Jan 17 17:37:33 2020 -0800
+
+    Update Questions
+
+commit 7ce5657e2f43720fd30f09a7d40006a46b1f55c9
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Jan 17 17:28:19 2020 -0800
+
+    Questions update
+
+commit f2893c0a796a56cfc8ad3a606dc7436cf9e60701
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Jan 17 17:04:58 2020 -0800
+
+    Dialog fix
+
+commit f7d643c162af4bd0d021de31b32056db5e88d9dd
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Jan 17 16:35:18 2020 -0800
+
+    STT updates
+
+commit efb8e856ecb5a90735cf5a03bd573dd7d84dc320
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Jan 17 15:47:09 2020 -0800
+
+    Recorded dialog update
+
+commit 31c4f21a01f96a2e681ca0fefa6f53893180d8c0
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Jan 17 15:42:53 2020 -0800
+
+    Slight recording updates
+
+commit 2f1f9f7d07561dd7ba44226679dbdfd99bb9358d
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Jan 17 15:17:35 2020 -0800
+
+    Info image setting update
+
+commit 0a38f2a7fed91b04a442376e5596d8cc7b061734
+Merge: c6dfd80c 33190269
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Jan 17 14:49:12 2020 -0800
+
+    Merge branch 'master' of https://github.com/StayWell-Labs/StayWell-CES
+
+commit c6dfd80ceeba3e9c6a35f7a6887eb40e27d88837
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Jan 17 14:48:17 2020 -0800
+
+    STT back
+
+commit 33190269ef3d4df14049782c30423b6d81e498d3
+Merge: cbf220c7 78fc3a90
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Fri Jan 17 14:46:12 2020 -0800
+
+    Merge pull request #29 from StayWell-Labs/settings
+    
+    settings
+
+commit 78fc3a90dbd5114ababb0c3ac88c184293f24e37
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Jan 17 14:44:20 2020 -0800
+
+    settings
+
+commit cbf220c7d54544754493dd2673c53d68f100dfcf
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Jan 17 14:12:28 2020 -0800
+
+    Muting support
+
+commit eeb9a5a27f3dc4974d7c71caf1658bcd21056a8b
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 16 16:09:25 2020 -0800
+
+    Revert "Removing unused files"
+    
+    This reverts commit 112a96d883af98584c3b02d42dc9fdb16208d067.
+
+commit 112a96d883af98584c3b02d42dc9fdb16208d067
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 16 15:59:10 2020 -0800
+
+    Removing unused files
+
+commit cfb974f97bf3341095b021c7a9f86ef24885fc4b
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 16 15:40:33 2020 -0800
+
+    Minor UI updates
+
+commit 4fb89ae1401d70496102e2f85b7296322e0ef4b8
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 16 14:06:02 2020 -0800
+
+    Disabling Android push to talk
+
+commit cc034f7df5f50573a3a48a12b37d9eddf0a069bd
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 16 13:19:08 2020 -0800
+
+    Questions popup
+
+commit 1aef57021c2be16b2b94c2155db45320c8d0c587
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 16 11:09:34 2020 -0800
+
+    Debug Info update
+
+commit 04729c8e8ea9c2605bfcea93528bfb8936cbd10a
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 16 10:54:24 2020 -0800
+
+    Add version label
+
+commit c532545259a3e74f5da9d059299c9d0f751ec3b8
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Jan 15 17:11:54 2020 -0800
+
+    Push to talk updates
+
+commit 5614ec541ea1f5bdf0bcd953ffadc54293234735
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Jan 15 16:33:02 2020 -0800
+
+    Speaking UI push to talk
+
+commit a45a85864e5e769b3f9905d63e9f9bae4dd7256b
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Jan 15 15:58:23 2020 -0800
+
+    Speech Recognizer sample
+
+commit f6d99fd4b548c5b4f0f282afc842241f4c862b41
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Jan 15 14:54:22 2020 -0800
+
+    Android update
+
+commit d3b618729e361ee542667702588b314678487a01
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Jan 14 20:29:05 2020 -0800
+
+    Texting update
+
+commit d422763c4c4f1c7830f12dc4c6b96ed2ba3e6862
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Jan 14 18:11:48 2020 -0800
+
+    Updated RecordedDialog cache
+
+commit 4f5a833fa809b4606dce13a2f707b96bd4045a80
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Jan 14 18:03:11 2020 -0800
+
+    Update UI for when speaking
+
+commit 7aa703580b901252a2f4dc5f57e7306649147d5a
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Jan 14 17:37:09 2020 -0800
+
+    More audio cached updates
+
+commit 38e31358995ab540bb3603bca96c3a0563b5f953
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Jan 14 14:56:12 2020 -0800
+
+    Caching update
+
+commit 8cd0723e325c2fd7b541ea3a6b535e8467487313
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Jan 13 18:34:54 2020 -0800
+
+    Android STT support
+
+commit cd9bb8a12843e17cb48f0e13881d94141878b3bc
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Jan 13 14:29:41 2020 -0800
+
+    Fantom plugin
+
+commit 8a760fde604aebf87311e35803ca7b83add838fa
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Jan 6 10:26:19 2020 -0800
+
+    New UI updates
+
+commit ab78b9fe54bff5f15cb4b874ac4a0f9cf23270be
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Jan 3 15:02:03 2020 -0800
+
+    SpeechToTextManager stop on destroy
+
+commit 6fd88bba3e655ae4479c502c8d701694d0046682
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 2 16:26:16 2020 -0800
+
+    Audio updates
+
+commit 109c2e8bd3c60c3e212b61eab1026b7d902c037b
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 2 15:08:29 2020 -0800
+
+    UI testing
+
+commit 116dd9c1f4cd6b71ebd7f8da1a3c20c44a76b9a1
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 2 13:15:04 2020 -0800
+
+    More testing updates
+
+commit e1dd945a504ad80c01b6e88fbe379c8caaf45a65
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 2 12:11:53 2020 -0800
+
+    Initialization error check
+
+commit c14c019530d623a88c1f546c3390ae01a03e0cce
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Jan 2 10:53:34 2020 -0800
+
+    New UI updates
+
+commit 8360245282519e107ed01cad7cccd76537fc3f23
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 31 13:12:16 2019 -0800
+
+    Update volume for audio source
+
+commit 3358804b47642b8ec1ca7e657497abc4d007fe19
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 30 17:30:47 2019 -0800
+
+    Import type update on resources
+
+commit 28ec53f4792c1ef58207fe21c696db0021756a0d
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 30 16:51:22 2019 -0800
+
+    New png images
+
+commit 4d1adfcb669a947f6ca0fa0a3db835ada895c24d
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 30 16:49:02 2019 -0800
+
+    New UI flow updates
+
+commit 30f395f4d8ca9e45372890507d29185ab0eac458
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 30 13:54:33 2019 -0800
+
+    Menu bar added to new UI
+
+commit bcd0497a284cf7f8e33d8db01d68c14ae0fbb68c
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 30 13:24:25 2019 -0800
+
+    Better handling of Watson service being down
+
+commit e5751735d6d45d3f0ac2338ff2c0e29b7ae9be50
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 27 18:25:45 2019 -0800
+
+    New Platform UI updates
+
+commit f2d0bd7470a1bde8c9bc94a6073cead533575feb
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 27 11:17:57 2019 -0800
+
+    Peripheral Listing UI
+
+commit 7f48e193080cdeb743793145d5f4e77d4e89551c
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Dec 26 13:40:23 2019 -0800
+
+    More new UI updates
+
+commit 329cae079333b79a76fbcb87a1bdb55a21b543a8
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Dec 26 12:50:16 2019 -0800
+
+    Work on new UI
+
+commit 9729de6d588a690811726f4f5c54f18c5f9ad3b3
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 23 15:05:25 2019 -0800
+
+    Simple health circle
+
+commit c3d3b530e0afd888a3d78ffdadad3269d4fff4c6
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 23 13:23:56 2019 -0800
+
+    UI updates to main
+
+commit 2250ac82a909ead9960f83ac1e320226e7480bd7
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 23 12:16:29 2019 -0800
+
+    Texting initial hi position update
+
+commit ce833f182cf7add01b80eb93a1cb329db8c48265
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 23 12:07:03 2019 -0800
+
+    Main scenes updates
+
+commit 2ac8a020fba673bfcbce2b2831adbfe629317945
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 23 11:16:55 2019 -0800
+
+    For now, take out OpenCV
+    
+    We will want to put this back later at some point
+
+commit 4e5499e9bb7f9728e7112fcd5348c365b7295a90
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 20 16:34:04 2019 -0800
+
+    Keyboard updates
+
+commit 4958b4e9489a67eb2b73137551940275f4e51722
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 20 15:20:49 2019 -0800
+
+    More minor UI updates
+
+commit 3c2a45c91ea25d0adc9d0d19683a267847cdae69
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 20 15:02:07 2019 -0800
+
+    Minor opening UI fix
+
+commit 82e00e71e73e30903203ee49780f519319813660
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 20 14:37:44 2019 -0800
+
+    Gif loading check
+
+commit f1dbc3eb17f013d8cc22771317c4d9a96b993272
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 20 14:23:54 2019 -0800
+
+    Debug updates
+
+commit 1b334d0c0dfb0e8e455bd2de31a9fe7d14f604eb
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 20 13:18:16 2019 -0800
+
+    Half second delay for text to speech ending
+
+commit 31bad66854e30d34dfec314e4602b5b16312c54f
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 20 12:48:43 2019 -0800
+
+    Gif support merge
+
+commit 684e185ddcb672a3216c387c59bf62c38bca6e87
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 20 11:09:50 2019 -0800
+
+    Debug settings
+
+commit f034c6c2dad8d1031dc5b0e84d9ab15a07d3e342
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Dec 19 18:14:04 2019 -0800
+
+    Speech to Text service updates
+
+commit 86da677abba57c422b1db5961163fa0baa4a6470
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Dec 19 14:57:30 2019 -0800
+
+    Better displaying of chat text
+
+commit efe35ebb0c7719d0cb072e4ff47bf88aa0cfd874
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Dec 19 14:34:45 2019 -0800
+
+    More keyboard updates
+
+commit 1046a4d8d585b78695f58e31330f922c804db38f
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Dec 19 12:53:27 2019 -0800
+
+    Keyboard updates
+
+commit 02789be8ca1a3f8dfebe9a19dd646463dcc73214
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Dec 18 16:55:39 2019 -0800
+
+    Update rotation UI
+
+commit daa93a53a411895931d2f81bc6a505cbfbeff004
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Dec 18 15:35:20 2019 -0800
+
+    Rotated screen
+
+commit 9bcdedb0f04af9fedb98b09e5bebee5f3cef7060
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Dec 18 13:48:16 2019 -0800
+
+    More UI updates
+
+commit ad19c56952bfac6875e7d298e1d6631ec43887cb
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Dec 18 13:47:10 2019 -0800
+
+    Update text UI
+
+commit f88cacf657934ad6f977a1ba5bc5482392604147
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Dec 18 13:08:18 2019 -0800
+
+    Main screen UI updates
+
+commit 6899e0c294264131d03e5783aee166c7ff312d96
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 17 17:45:03 2019 -0800
+
+    If init fails, go to text screen
+
+commit d0d306588906e078e6a6e13232fec62e4c50e0c6
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 17 17:20:00 2019 -0800
+
+    Keyboard text updates
+
+commit 4c432e1dae0c9342d597e747554da22e426d2ec3
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 17 17:11:01 2019 -0800
+
+    Cached dialog
+
+commit f33d1252ab6811185475e71a1ec314f4016e9f20
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 17 17:10:40 2019 -0800
+
+    Recording, playback, updates
+
+commit 14e1ea33e74c686a7ea862fb3f21cd481b779175
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 17 16:20:24 2019 -0800
+
+    Better intro screen
+
+commit 0910bc1a2431ac7c1ee6160e21dd8388b6e39426
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 17 16:00:46 2019 -0800
+
+    Gif importing asset
+
+commit 93e1433930713bdc2c05fa931071850f11960fd4
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 17 15:53:18 2019 -0800
+
+    Speech to Text updates
+
+commit 57fb35bcfc322337c9ba77d324264904fb12dfb2
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 17 13:21:58 2019 -0800
+
+    Speech to text handling update
+
+commit c8b44db13586d66f069b4eb7de7f3288729fb3d3
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 17 12:44:24 2019 -0800
+
+    Update authenticator
+
+commit 79a2bf8707a64fc4b93fe23607cc5ea306a12356
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 17 12:11:09 2019 -0800
+
+    Updating Text To Speech reliability
+
+commit 65f483b310093ae65009ec7e3e5eea9f44ceb404
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 16 15:07:24 2019 -0800
+
+    Build Settings
+
+commit 449b62270f54258b46ee59868ce8f76d92d6da6e
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 16 12:53:04 2019 -0800
+
+    Restart service update
+
+commit c8128f3a486f5efc84cbe320e81424674f487858
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 16 12:42:01 2019 -0800
+
+    Temp disable caching
+
+commit 147ef2aeb944672c5735e5a3b296f0df9e945cf8
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 16 11:13:54 2019 -0800
+
+    Disable all audio recording
+
+commit 63335f28b027273c6c69953f3ecfa23754158f20
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 16 11:12:58 2019 -0800
+
+    More cached audio
+
+commit 2e38d4417160163663a16da20cee1241335a6a21
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 16 10:37:26 2019 -0800
+
+    Updating cached audio
+
+commit c5d785555bcdc2da3f5d688cb6e3e24ddf316ce7
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 13 16:56:00 2019 -0800
+
+    Temp eye disabling
+
+commit ae18be92b5ca34eb8cbfcd3d6283a6d03c9b6490
+Merge: dab5b753 d868c023
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Fri Dec 13 16:34:02 2019 -0800
+
+    Merge pull request #28 from StayWell-Labs/Alart-and-fixs-to-waton-record-speech
+    
+    Update to android problem
+
+commit d868c02338b80066b94bd78bb9f8f0e60eda98dd
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Dec 13 16:30:37 2019 -0800
+
+    Update to android problem
+
+commit dab5b753604f20708e1ee98033cba6ea80ba32ba
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 13 14:33:09 2019 -0800
+
+    Speech to text manager update, UI
+
+commit f2faf2bd1fe519812b2d738305027497362a8171
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 13 13:13:15 2019 -0800
+
+    Moving some settings out of streaming
+
+commit a2fabdd139439294c22f7a7f0cde4c6d89a3c65b
+Merge: 06d6bc7b 4e004944
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Fri Dec 13 12:28:23 2019 -0800
+
+    Merge pull request #27 from StayWell-Labs/Alart-and-fixs-to-waton-record-speech
+    
+    Merge branch 'master-listing-to-users-is-off'
+
+commit 4e004944972a36fd9a0c9178a60bea5744c4571c
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Dec 13 12:24:57 2019 -0800
+
+    Merge branch 'master-listing-to-users-is-off'
+
+commit 06d6bc7bc05547d5d255562417d828248aa3cc97
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 13 12:18:06 2019 -0800
+
+    Ui about updates
+
+commit 94fd0e92817c4601e6ae00505a3a65b3ee700711
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 13 12:08:18 2019 -0800
+
+    More UI updates
+
+commit 3c0870004864d12ae068febf2effc1279bb7ab7d
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Dec 12 17:10:38 2019 -0800
+
+    Keep same Id between sessions
+
+commit 1bae9052f381d94abf4071b57fdc673903286659
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Dec 12 16:44:44 2019 -0800
+
+    More UI updates
+
+commit 7ef0520dc4fb75f4729927b1f270bb8c922dfcfa
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Dec 12 15:03:35 2019 -0800
+
+    More updated UI
+
+commit d6ba93b740b6ed57f5247ccf6bf47139bf484026
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Dec 12 14:39:13 2019 -0800
+
+    Better keyboard handling
+
+commit d4908cbcbb04242acab9def09d2e5290c741703e
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Dec 12 14:27:18 2019 -0800
+
+    Basic keyboard
+
+commit 123d3ae40a04a0df3898a58485de94027f7685d0
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Dec 12 11:50:23 2019 -0800
+
+    About UI update
+
+commit bcf474c317f6e0cf732d174945727a0db3e7a669
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Dec 12 11:43:49 2019 -0800
+
+    Start of dialog UI
+
+commit c0020c24e65f82c59a3236655d37d615aa88951c
+Merge: ece859bc 80acc685
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Wed Dec 11 17:24:51 2019 -0800
+
+    Merge pull request #26 from StayWell-Labs/master_12_11_19_character
+    
+    Master 12 11 19 character
+
+commit ece859bccf0205a1fd7687cdd167e2e38b9a9208
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Dec 11 17:21:17 2019 -0800
+
+    New UI updates
+
+commit 80acc6859933a170876c45d147f47c5d814210a7
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Dec 11 17:14:40 2019 -0800
+
+    added character prefab
+
+commit ff0139c2fe94d41e4af65e150d4b714111a163cd
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Dec 11 16:58:49 2019 -0800
+
+    added tags to handle facial expressiona
+
+commit 674ffcf28182e2f6e8a619e72092ffdf2f4c87d9
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Dec 11 15:18:48 2019 -0800
+
+    Chat UI
+
+commit 3cee7c631067c5df6e97513825a6c2ca45b9c379
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Dec 11 14:36:59 2019 -0800
+
+    added tags handling
+
+commit d2ac51be69130e0e697bab8a0bec1879cb8349f9
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Dec 11 11:20:09 2019 -0800
+
+    Update background color
+
+commit 184e826de3ed4cc71ff40da85dfa4e02dc357d11
+Merge: a2ed8717 5e03514f
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Wed Dec 11 11:08:27 2019 -0800
+
+    Merge pull request #25 from StayWell-Labs/Checking-Watson-Service
+    
+    Checking watson service
+
+commit a2ed8717cdd7d0593d54853967e902e09e65acaa
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Dec 11 10:52:15 2019 -0800
+
+    Hi dialog fix
+
+commit 5e03514f86f2640a35e92606d0e102fad6e04ec5
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Tue Dec 10 17:59:13 2019 -0800
+
+    update on connection
+
+commit 85411ea7d7a9d2cee14841690cb6669dd510aaee
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Tue Dec 10 16:43:41 2019 -0800
+
+    Update on watson connections
+
+commit 61186091d7051b709211efd4412f8f5f897e4b74
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 10 15:46:07 2019 -0800
+
+    More Unity UI
+
+commit a636200fbc2b15842637d1abe3bcccd714ae1f4f
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 10 14:55:26 2019 -0800
+
+    Ui screen transitions
+
+commit ea282b04abdd768fbeef092d3204a0e0a3217acb
+Merge: f21e9c0f 8d056db9
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Tue Dec 10 14:13:59 2019 -0800
+
+    Merge pull request #24 from StayWell-Labs/master_12_10_19_character
+    
+    fixed eyes look animation
+
+commit f21e9c0f68de5c84a9b9102b94764dd2ee7069c7
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 10 14:05:51 2019 -0800
+
+    More new UI updates
+
+commit 8d056db9ccf9d18451c2dfaa331b7c6d4bc76085
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Dec 10 13:40:39 2019 -0800
+
+    fixed eyes look animation
+
+commit b52f9bb7363d221c5c213ba7c4a5df09b5103c81
+Merge: 54b482f1 fc2a45ac
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Tue Dec 10 13:03:32 2019 -0800
+
+    Merge pull request #23 from StayWell-Labs/master_12_10_19_character
+    
+    add characer prefab
+
+commit fc2a45ac73e1266aa8b9dc2f654be46ee9a3f065
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Dec 10 13:00:11 2019 -0800
+
+    add characer prefab
+
+commit 54b482f1ddb571c8defb4fa469ccc929915fddf1
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 10 12:55:41 2019 -0800
+
+    More new UI
+
+commit 03fec73f6a7201d90bd254e85f7ed9ea89f5d436
+Merge: b3bb912b 4832529e
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Tue Dec 10 12:34:01 2019 -0800
+
+    Merge pull request #22 from StayWell-Labs/master_12_10_19_character
+    
+    add new character's animations
+
+commit b3bb912bc7b5343f9cb80e30e46d692c351048e4
+Merge: 6ced9e39 39195b72
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 10 12:19:40 2019 -0800
+
+    Merge branch 'master' of https://github.com/StayWell-Labs/StayWell-CES
+
+commit 6ced9e39d42443d7809dc3233ce8e0e7d955d005
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 10 12:19:28 2019 -0800
+
+    More new UI work
+
+commit 4832529ed8e4a6e7e50eb6b1f2f278e1a66aa2e1
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Dec 10 12:12:02 2019 -0800
+
+    add new character's animations
+
+commit 39195b7259ee6bfd5dbe92e0555298b28ffdfe32
+Merge: f622d90f 55e17685
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Tue Dec 10 12:10:11 2019 -0800
+
+    Merge pull request #21 from StayWell-Labs/Checking-Watson-Service
+    
+    Watson Connection restart
+
+commit 55e17685ffcc61b8ad7eefe9b7c5b5cc765c7301
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Tue Dec 10 12:02:11 2019 -0800
+
+    Watson Connection restart
+
+commit f622d90f8c2fbc9ecd036d9651ab0fbd64dda65d
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 9 18:03:56 2019 -0800
+
+    More OneQor UI updates
+
+commit 246fbb2cdafa7b25496b61cb5b260119abb50e3b
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 9 15:42:28 2019 -0800
+
+    Start of new UI
+
+commit b3cf79e95e81ee7abe3175f3ef1862f1169275d2
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 9 13:05:43 2019 -0800
+
+    Text to speech optimizations
+
+commit 09321c9895f9ad02725ddd1afa07d8a8298e4d0b
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 6 17:49:37 2019 -0800
+
+    Update question asking
+
+commit 5bb6003598f3ff0dc08b9f63b2eb27c82e158dd3
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 6 17:02:04 2019 -0800
+
+    Basic mask
+
+commit c93d9d40d02a6ae619c39d1a7f707da0b93d1b4f
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 6 15:50:31 2019 -0800
+
+    More UI setup
+
+commit 98b2ba6f7c5af3d24f7ef757a6b60e872f7e968d
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Dec 6 12:50:06 2019 -0800
+
+    UI starts
+
+commit 7a9d1dd8c2139c2034ff45e6f83c61af53e3dc94
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Dec 5 16:58:06 2019 -0800
+
+    Audio cache
+
+commit f2bfa100507c22f434879d4dfb994252231f3832
+Merge: e5c76d05 9303168e
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Thu Dec 5 15:41:36 2019 -0800
+
+    Merge pull request #20 from StayWell-Labs/Master_12_5_19_3pm_character
+    
+    fixed animations bugs and character position & scale
+
+commit e5c76d059366b61ff4c3e492a133c44e9484ab2a
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Dec 5 15:39:43 2019 -0800
+
+    Recording updates
+
+commit 9303168e1c3d837588943f3c79e76faff10d13b0
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Dec 5 15:23:15 2019 -0800
+
+    fixed animations bugs and character position & scale
+
+commit 6fff7536ebdcc5b50ecaa06c6869f3dc022fd78b
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Dec 5 14:43:42 2019 -0800
+
+    Delete audio cache
+
+commit d303c66c1eafa8e94a7491399e2f7af783786aa8
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Dec 5 14:04:29 2019 -0800
+
+    Emoji parsing
+
+commit 4b4123f569483e81837b1afbc1a8a6f11e45d677
+Merge: a3813911 ab0c5b57
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Thu Dec 5 12:02:52 2019 -0800
+
+    Merge pull request #18 from StayWell-Labs/Master12_3_19_character
+    
+    Master12 3 19 character
+
+commit ab0c5b57669a5dd5c6abe70f8fad1855d93846bd
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Dec 5 11:58:39 2019 -0800
+
+    fixed issues with layer of character
+
+commit a58fb8fa88f4fc675e220fb4e2f5c85daaec8681
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Dec 5 11:40:00 2019 -0800
+
+    changed position and scale of character on the scene
+
+commit a381391118545281e4170786871e6cb8c1353051
+Author: curtis <curtis@staywelllabs.com>
+Date:   Wed Dec 4 17:15:21 2019 -0800
+
+    Fix to user speech in demo mode
+
+commit fe6b3a836b11ff04fe5f4dcb1d79a397ff0aed09
+Author: curtis <curtis@staywelllabs.com>
+Date:   Wed Dec 4 14:13:09 2019 -0800
+
+    Update FindSomeone loading
+
+commit ae30b6feacc854ed15f9ab2a0df75b2e8238457a
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Dec 4 12:57:42 2019 -0800
+
+    add character sprites
+
+commit 51ed6809642638d48f57d2b3e2c1a35a26cfbe0d
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Dec 4 12:56:34 2019 -0800
+
+    add new blu character
+
+commit 52506647e426c6b8959a32375ec3606975490ff4
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 3 17:49:30 2019 -0800
+
+    Particles for UI
+
+commit dd0985244097356bb82ed985e6654716d468da2d
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 3 17:47:19 2019 -0800
+
+    Update Text type animation
+
+commit bb21f2ad160e785162dd9923dba91b303ea33a7c
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 3 17:43:28 2019 -0800
+
+    SettingsWindow remove singleton
+
+commit df3e7e605e7226d8935d07500b11d07186cf4a6b
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 3 17:37:48 2019 -0800
+
+    Text type animation updates
+
+commit a2f0b0c7475629e4ea31e49af4b614ae6e5221db
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 3 17:25:40 2019 -0800
+
+    Update to Blu listening
+
+commit 9c17b9e9bf9b7d12c2f55989dbbff73c5e3d7bf6
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 3 17:19:22 2019 -0800
+
+    Update to not listen when Blu is talking
+
+commit 73920788bc4a15b0d1b363bd1f71a2e03eea3391
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 3 15:42:23 2019 -0800
+
+    Easy TTS
+
+commit a23a9dc2a3632b81b3cff55c1a572e898e943751
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 3 15:29:05 2019 -0800
+
+    Minor settings update
+
+commit d5edad536429ec9f90a0c5d98c46f45ae436be78
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 3 15:23:12 2019 -0800
+
+    Starting/stopping demo mode support
+
+commit 6b444cf34bd680b93a7729ea12f2fc6de172bd1f
+Merge: 36dbc68a 970c43cd
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Tue Dec 3 12:17:37 2019 -0800
+
+    Merge pull request #17 from StayWell-Labs/master-Monday
+    
+    Setting status
+
+commit 36dbc68ae5cf10c7dd9f141ff4503882c77945eb
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 3 12:09:43 2019 -0800
+
+    Better handling multiple chat messages
+
+commit 970c43cd7e1e2cafb8fc3368242b278f918e1d83
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Tue Dec 3 11:50:26 2019 -0800
+
+    update so it will show some green text is connected
+
+commit 13cc197a0efc1c625b45a85cfd4286cf032ada2c
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Tue Dec 3 11:42:11 2019 -0800
+
+    4 labels showing status
+
+commit 86008681023f5025ea982752bdef418dc61b8877
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Dec 3 10:58:03 2019 -0800
+
+    Handle multiple messages better
+
+commit 3d2fadb65f0597b99241b41027e51623b81600e3
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 2 18:28:30 2019 -0800
+
+    Default to use new chat backend
+
+commit 17216de8c72ec974692f74f38375d01368f0de39
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 2 18:21:11 2019 -0800
+
+    Support for loading image at runtime, update UI
+
+commit ed5b885a2575e2994a457b1130d012556d4c6980
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Mon Dec 2 17:29:55 2019 -0800
+
+    update text for status
+
+commit a8f17ea7368e99c0fd35e6db245b9ee3d9a24cae
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 2 16:48:02 2019 -0800
+
+    Update console test
+
+commit 4bc0030ed3763014069271906474decbe3186773
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 2 16:47:21 2019 -0800
+
+    Chat messages have more data
+
+commit 6995fc3f7d60d53419cd55ebfd957d5e231cb749
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Mon Dec 2 16:43:45 2019 -0800
+
+    update those dam images and the UI labels for the internet and watson error
+
+commit 80911ba5744dcc33706ece138e72d5f67975554c
+Merge: bc3ca03e 0ab30f37
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Mon Dec 2 15:17:07 2019 -0800
+
+    Merge pull request #16 from StayWell-Labs/master-opencv-update
+    
+    OpenCV Update
+
+commit 0ab30f37971d1c3b52ed011cc24e9a2ae7ebe583
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 2 15:16:07 2019 -0800
+
+    OpenCV Update
+
+commit bc3ca03e09d6043b8743dc07e45737330c3de40c
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 2 14:53:12 2019 -0800
+
+    Connecting to new chat backend
+
+commit b1c5052b608ddb8e2ba64681df8101eb44811818
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Dec 2 13:21:34 2019 -0800
+
+    Fix to REST API
+
+commit 171b8a751417fc046eade047b4d99179c6239646
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Nov 27 15:05:28 2019 -0800
+
+    Basic animation support for bar chart
+
+commit 90296393675e8d90756179eff13ab9be07fa63b4
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Nov 27 14:15:02 2019 -0800
+
+    Charts plugin
+
+commit e9f9e87af1e968d87713f1af2111a3f15b7d18a3
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Nov 27 12:00:17 2019 -0800
+
+    UI work
+
+commit 8ec32b045cac79c48b7d1d2d91bd650e9805ada9
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Nov 26 13:10:05 2019 -0800
+
+    UI updates - new screen placeholders
+
+commit 360038973890569d19242853f35fe8e14b11f9de
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Nov 25 17:42:35 2019 -0800
+
+    UI updates
+
+commit a644c3cbf2d2644012121a9c4838f7c3e163671c
+Merge: 73a5132b 31b5d028
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Mon Nov 25 14:54:37 2019 -0800
+
+    Merge pull request #15 from StayWell-Labs/master-merge-pier
+    
+    Master merge pier
+
+commit 31b5d0284426fdb59e9628e48989c2111b08c0e7
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Mon Nov 25 11:09:15 2019 -0800
+
+    update to lights and background
+
+commit 7a9f1e88a085b32da63f9c312b36a4cb7697f721
+Merge: ae37a755 73a5132b
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Mon Nov 25 10:38:10 2019 -0800
+
+    Merge branch 'master' into master-Merge
+    
+    # Conflicts:
+    #       StayWell/Assets/StayWell/Chat/ChatbotSDK/RecordedDialog.cs
+
+commit 73a5132b1d59e46710cdb0ad22920ca033e0fde9
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Nov 22 18:24:03 2019 -0800
+
+    Updating streaming files setup
+
+commit ae37a755e8718177d272d6603f3c0f388856c7d2
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 22 18:06:46 2019 -0800
+
+    Update on Demo Cam and code for text speed
+
+commit 96d33e6ab667dfc806b6175a208e2eb9edcc52b7
+Merge: 68dbe475 35167e6f
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 22 17:00:04 2019 -0800
+
+    Merge branch 'master' into master-Merge
+    
+    # Conflicts:
+    #       StayWell/Assets/StayWell/Chat/ChatbotSDK/RecordedDialog.cs
+    #       StayWell/Assets/StreamingAssets/RecordedDialog.meta
+
+commit 68dbe4750dae72ed49e6b87393d6e338f67de00a
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 22 16:54:10 2019 -0800
+
+    some changes to lights and backgroud
+
+commit 35167e6f4a4898e94176a8bb0f73c1d184a2b612
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Nov 22 16:50:57 2019 -0800
+
+    Start of text timing event
+
+commit 6271fe0bf736b292b989d2ee2278ed3e18e99b86
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 22 16:38:48 2019 -0800
+
+    made the text display time better and put the lights in the Clinicain prefab
+
+commit 8f18b5a526d1c3e2d06dd17eb3d9e02babed2b40
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Nov 22 16:36:45 2019 -0800
+
+    Updating file loading
+
+commit 98d1e63b163c2db986135d951ba1ad0771b93d4f
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 22 15:28:45 2019 -0800
+
+    Demo for Friday
+
+commit 824c92de02b9daf5863db8cd7a7458ee69614fc7
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Nov 22 15:16:42 2019 -0800
+
+    Minor record update
+
+commit 023efdd5c9eaa5cb2944a850c522ffb70ca2c541
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Nov 22 14:47:46 2019 -0800
+
+    il2cpp fix
+
+commit a047c05da4e04c1b09999f8fa6c828090cc0c651
+Merge: 8b49fda5 af9836c6
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 22 11:37:59 2019 -0800
+
+    Merge branch 'temp-pier' into master-Merge
+
+commit 8b49fda53149e2874b8c3b935665fc2776a4c6fd
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 22 11:37:04 2019 -0800
+
+    Master with prefab of timeline
+
+commit af9836c628f8e927e7521e8a02fb09ecb42fcf2a
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 22 11:27:44 2019 -0800
+
+    Okay everything seems to work now
+
+commit 2368ce8328f2453aee70890f13a0ae19686d5601
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 22 11:18:07 2019 -0800
+
+    I have everything working but watson not connected
+
+commit 626e59e2a8db0d9f5db76ddc9e8792748911eebf
+Merge: 05a1e134 d7e5842f
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 22 11:10:30 2019 -0800
+
+    Merge branch 'GregoryMobile' into temp-pier
+    
+    # Conflicts:
+    #       StayWell/Assets/Modern UI Pack/Scripts/Dropdown/CustomDropdown.cs
+    #       StayWell/Assets/StayWell/Graphics/AppManager.cs
+    #       StayWell/Assets/StayWell/Scenes/Main.unity
+    #       StayWell/Assets/StayWell/Scripts/Debug/TTSTest.cs
+    #       StayWell/Assets/StreamingAssets/AudioCache/0.wav
+    #       StayWell/Assets/StreamingAssets/AudioCache/1.wav
+    #       StayWell/Assets/StreamingAssets/AudioCache/2.wav
+
+commit d7e5842fcdb89f4006307513a036c7d6c4fb11cf
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Fri Nov 22 10:49:45 2019 -0800
+
+    minor change
+
+commit 06454fe457890eb92ff3f0be4dca56a2402a2b0e
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Nov 21 17:27:35 2019 -0800
+
+    play animation by tag that associated with watson's answer
+
+commit 05a1e134285504f549f31654d4282cff3bba54c0
+Merge: 06ea095d 7f424fbf
+Author: pier-sw <57193295+pier-sw@users.noreply.github.com>
+Date:   Thu Nov 21 17:10:02 2019 -0800
+
+    Merge pull request #14 from StayWell-Labs/master-to-pier
+    
+    Master to pier
+
+commit 53a82369bfb150dbee58c1c0713f824659f70300
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Nov 21 16:59:43 2019 -0800
+
+    add tags to control animation
+
+commit 7f424fbf64777d607c8ab624c1c1198b4c619569
+Merge: 06ea095d 4f5bf619
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 21 16:30:03 2019 -0800
+
+    Merge branch 'pier-temp-to-master'
+    
+    # Conflicts:
+    #       StayWell/Assets/StayWell/Prefabs/Canvas.prefab.meta
+    #       StayWell/Assets/StayWell/Scenes/Main.unity
+
+commit 4f5bf619242cea564825662141117f5331147d0a
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 21 16:25:00 2019 -0800
+
+    updated the Settings and UI labels
+
+commit 06ea095d61de83efbe24616b10b02d6b2afa549c
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Nov 21 16:12:36 2019 -0800
+
+    Removing unused scene
+
+commit d6033385857c7846a92b0d18969bf8835e996bcd
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 21 15:41:41 2019 -0800
+
+    Updated Settings window
+
+commit 8de3ac9e3361866d57f65de882d2ab00c9a25507
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Nov 21 14:41:10 2019 -0800
+
+    minor change
+
+commit 8938f9fc2045beb2428126331c0ff7ea2854db8a
+Merge: 899cfd31 5220bd1e
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 21 14:11:23 2019 -0800
+
+    Merge branch 'GregoryMobile' into pier-OpenCV
+    
+    # Conflicts:
+    #       StayWell/Assets/StayWell/Graphics/Popups/WatsonDisconnect.meta
+    #       StayWell/Assets/StayWell/Models/StayWellController.controller.meta
+    #       StayWell/Assets/StayWell/Prefabs/Canvas.prefab.meta
+    #       StayWell/Assets/StayWell/Prefabs/Clinician_v3.1.prefab.meta
+    #       StayWell/Assets/StayWell/Scenes/Main.unity
+    #       StayWell/Assets/StreamingAssets/AudioCache/0.wav
+    #       StayWell/Assets/StreamingAssets/AudioCache/1.wav
+    #       StayWell/Assets/StreamingAssets/AudioCache/12.wav.meta
+    #       StayWell/Assets/StreamingAssets/AudioCache/2.wav
+    #       StayWell/Assets/StreamingAssets/AudioCache/4.wav
+    #       StayWell/Assets/StreamingAssets/AudioCache/Header.json
+
+commit 899cfd31b5d309406d66c84a65ceb390fdd694cc
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 21 13:40:41 2019 -0800
+
+    Update to prefabs for help window
+
+commit 7c850383beaaa2e21b02fe67b4619c6604e1ec3b
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 21 13:27:40 2019 -0800
+
+    Update to the Standard Dropdown prefab to scale to the right size for canvas
+
+commit cba145f713b026a5e99a89f8c2bbb4c7058b67a4
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 21 12:53:32 2019 -0800
+
+    you will like this one dropdown
+
+commit ee62aa777b9cdbcfa481aa7a5ac379847b5f17e4
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 21 12:43:31 2019 -0800
+
+    ok drop down list is fixed
+
+commit 503a17de2c04cb031c499244a31c3945fa2f501f
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 21 12:31:39 2019 -0800
+
+    update to bottom select
+
+commit 73a04d53cb169032afb840792b639fc8007a67fc
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Nov 21 12:28:07 2019 -0800
+
+    Set canvas size
+
+commit 4bfb68421bf875599a8de68a038b2ecb8d59aabc
+Merge: a282cab9 ad3d0d67
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Thu Nov 21 12:11:40 2019 -0800
+
+    Merge pull request #12 from StayWell-Labs/pier-OpenCV
+    
+    Pier open cv
+
+commit ad3d0d67b90af45c5d79d9a360d98e6c08279e20
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Nov 21 12:05:14 2019 -0800
+
+    Deleting audio cache
+
+commit 7becc6f8706b762249c3e6cfb2382d5beca852b6
+Merge: 17a4c91c a282cab9
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Nov 21 11:58:36 2019 -0800
+
+    Merge branch 'master' into pier-OpenCV
+
+commit 17a4c91cec5c7f440f2005edd6cd8cf14388525d
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 21 11:22:13 2019 -0800
+
+    Update on Help Dialog
+
+commit a282cab9c93c9e41a014ed5148bd9d98575a2f6d
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Nov 21 11:17:24 2019 -0800
+
+    Minor chat test UI update
+
+commit da41bfb6c0ccb979fcebc5ec3312c48b05198a49
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 21 11:00:52 2019 -0800
+
+    Update all prefabs on UI all working
+
+commit 431ade1c9a24fcfc3f4feaeff0034edb91c570bc
+Merge: 6f1c893d 4ca5e4f8
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 21 10:27:10 2019 -0800
+
+    Merge branch 'master' into pier-OpenCV
+
+commit 6f1c893d063ac1991537910852a4670c47a810ad
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 21 10:26:08 2019 -0800
+
+    Fixs to custom dropdown menu
+
+commit 4ca5e4f8c5fb21a2c2fd37313a6ddd2b9bab1944
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Nov 20 18:12:26 2019 -0800
+
+    Demo mode updates
+
+commit 45c9050548fc5895e8d1c1335f03b9b93f28c5ff
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Nov 20 18:10:45 2019 -0800
+
+    fix for ChatSDK dropbox
+
+commit 7e1680e22ed6936083a6827d1a27ff3c38e2aed9
+Merge: 1d107f70 e30b3206
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Nov 20 17:59:14 2019 -0800
+
+    Merge branch 'master' into pier-OpenCV
+
+commit e30b320682abeddf7e6d59864d32e7b0a9129bf6
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Nov 20 17:42:13 2019 -0800
+
+    Updating chat harness UI
+
+commit 1d107f701432e87e8aa64628e987c53a907dce6c
+Merge: 7e7e39f2 7c9c1474
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Nov 20 17:35:24 2019 -0800
+
+    Merge branch 'master' of https://github.com/StayWell-Labs/StayWell-CES into pier-OpenCV
+    
+    # Conflicts:
+    #       StayWell/Assets/Modern UI Pack/Scripts/Dropdown/TextTypeAnimation.cs
+    #       StayWell/Assets/StayWell/Scenes/Main.unity
+
+commit 7c9c147487f245df1470af5e965142c7bdd67c81
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Nov 20 17:29:31 2019 -0800
+
+    Take out UI singleton
+
+commit 7e7e39f2c8d1bb9cfac0a107abd766994f05b550
+Merge: 64651c9e 0c4f7eb9
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Nov 20 17:03:16 2019 -0800
+
+    Merge branch 'master' into pier-OpenCV
+    
+    # Conflicts:
+    #       StayWell/Assets/StreamingAssets/AudioCache.meta
+    #       StayWell/Assets/StreamingAssets/AudioCache/0.wav
+    #       StayWell/Assets/StreamingAssets/AudioCache/1.wav
+    #       StayWell/Assets/StreamingAssets/AudioCache/Header.json.meta
+
+commit 64651c9e8652506350a8cb37404f1aaee1904157
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Nov 20 16:52:18 2019 -0800
+
+    Chat harness UI update
+
+commit 5220bd1e9a7e2e59b347409c7a528e7d0f83e041
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Nov 20 16:50:21 2019 -0800
+
+    added clinician prefab
+
+commit 0c4f7eb9014ebf1b9cf0697fb6b6d96e26477088
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Nov 20 16:43:13 2019 -0800
+
+    Text Animation for watson text
+
+commit 4b5151cd1393b63680082197b55174bd84037004
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Nov 20 16:42:47 2019 -0800
+
+    fixed bug with jaw animation
+
+commit 2f654d1692bb95310b5c22567036063a5741ac77
+Merge: b5b63411 c28f2f0e
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Nov 20 16:25:21 2019 -0800
+
+    Merge branch 'pier-DropDownBox' into GregoryMobile
+    
+    # Conflicts:
+    #       StayWell/Assets/StayWell/Scenes/Main.unity
+    #       StayWell/Assets/StreamingAssets/AudioCache/0.wav
+    #       StayWell/Assets/StreamingAssets/AudioCache/1.wav
+    #       StayWell/Assets/StreamingAssets/AudioCache/10.wav.meta
+    #       StayWell/Assets/StreamingAssets/AudioCache/2.wav
+    #       StayWell/Assets/StreamingAssets/AudioCache/Header.json
+
+commit 31ad6fc5acc7401710d73a9e22eb52a99379263c
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Nov 20 16:22:03 2019 -0800
+
+    Recording updates
+
+commit 28e7f334fcd2d3a18187495c89b88b72a14ba612
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Nov 20 15:14:44 2019 -0800
+
+    Made dropbox re-scale for text
+
+commit e87308e5a7ede9d8cbd3a4894d31f9104774682c
+Merge: 63198ccf a16d3607
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Wed Nov 20 14:44:20 2019 -0800
+
+    Merge pull request #11 from StayWell-Labs/pier-OpenCV
+    
+    Pier open cv
+
+commit b5b634117ad37f5734002192d8873ea0f3013ba6
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Nov 20 14:29:10 2019 -0800
+
+    minor change
+
+commit a16d3607df1b9898fb06882f9c1202177c57c041
+Merge: c28f2f0e 63198ccf
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Nov 20 14:27:30 2019 -0800
+
+    Merge
+
+commit 63198ccf46186cc8b6f05323b1ae33368c9c2ff0
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Nov 20 14:11:29 2019 -0800
+
+    Chat recording update
+
+commit f69ff0b74c3a523b93b95e6a1929c4e4499a7d62
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Nov 20 14:06:44 2019 -0800
+
+    minor change
+
+commit c28f2f0e6751ad889c0300d4d06c8a08a6a6c13b
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Nov 20 14:01:22 2019 -0800
+
+    updates to code missing form last night and face detector and UI
+
+commit c17dba47e97e73cd4b2b2d19f88e667ae4ddbae6
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Nov 20 13:23:21 2019 -0800
+
+    update clinician anim & model
+
+commit 3648baabb6569ee0bc0342e735e6d06b6fcda469
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Nov 20 12:25:23 2019 -0800
+
+    FaceDetector And UI
+
+commit 888029878291332db06aa12383dd6d128e34e828
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Nov 20 10:27:03 2019 -0800
+
+    worked on DropDown UI and Face Detector
+
+commit e1ecbf497408670d1cb69883c9dade5554ecc0cd
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Nov 20 09:52:49 2019 -0800
+
+    clean branch
+
+commit bd19fa6dff877f409d0a15f9725efe0c87b2294b
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Nov 19 18:27:51 2019 -0800
+
+    Start of recorded dialog playback
+
+commit 1cc6842d58cfed809b66dd0e442c7ab5b23f0614
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Tue Nov 19 18:07:59 2019 -0800
+
+    fix for open cv git
+
+commit 6bf4a5e464f8ff09015dfca7cd8f538af78e5d9c
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 19 17:45:03 2019 -0800
+
+    added test armature animation
+
+commit 82dc4971286e28785a5ad6b1c2d4c06a2518045d
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Nov 19 16:57:29 2019 -0800
+
+    Chat harness test setup
+
+commit 3ffdf54765d87dbf33b3e5d00ee73e2cc5876a3b
+Merge: c3018979 871cd049
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Tue Nov 19 15:19:30 2019 -0800
+
+    Merge branch 'master' into pier-Unity
+
+commit 87595f36e3e73644766404e2e8cff11a0a71b1cd
+Merge: dc7ed25f e2b484b0
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Tue Nov 19 13:05:45 2019 -0800
+
+    Merge pull request #10 from StayWell-Labs/GregoryMobile
+    
+    added assistant status
+
+commit e2b484b0023262dbbfd7265980db1b4fef89399f
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 19 12:36:41 2019 -0800
+
+    added assistant status
+
+commit dc7ed25fb38ac7d65b9bfeb7c830ffa01a6754e5
+Merge: 97dfac5b 00d8dee7
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Tue Nov 19 12:31:00 2019 -0800
+
+    Merge pull request #9 from StayWell-Labs/GregoryMobile
+    
+    Gregory mobile
+
+commit 00d8dee7f253dfb0681a1c420cc35757c5151e4e
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 19 12:06:48 2019 -0800
+
+    fixed staywell prefab
+
+commit 871cd049cc332eb743e457a0fdef6fb63cbd2555
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Tue Nov 19 11:44:30 2019 -0800
+
+    fixs for master
+    
+    NullReferenceException: Object reference not set to an instance of an object
+    ChatbotSDK.SpeakingManager.StartSpeaking (ChatbotSDK.SpeakingManager+SpeakingProgramMode mode, System.Boolean enableAssistant) (at Assets/StayWell/Chat/ChatbotSDK/SpeakingManager.cs:53)
+    AppManager.Start () (at Assets/StayWell/Graphics/AppManager.cs:45)
+
+commit c301897980db61f9266ae385cbb35a1fda8b2e4b
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Tue Nov 19 11:38:44 2019 -0800
+
+    speech prefab
+
+commit b59df08c016edbb9e2157fbf82047e8dfa7dbcff
+Merge: e8b56494 a57c69bc
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 19 11:36:36 2019 -0800
+
+    Merge branch 'GregoryMobile' of https://github.com/StayWell-Labs/StayWell-CES into GregoryMobile
+
+commit f946a1d3b363821400d456e55e1c43e2df1303b8
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Tue Nov 19 11:35:52 2019 -0800
+
+    update on UI scale and prefabs for dropdown box
+
+commit e8b56494c00c21ac374f03314605b55ce04759b5
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 19 11:34:53 2019 -0800
+
+    added full mode with watson assistant
+
+commit a57c69bc0aa09c01b92612aeaff9242079e7c9e9
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Nov 19 11:31:46 2019 -0800
+
+    Merge
+
+commit 569eee88a081c7ac372d21b4c422aaf8ad2e3fd5
+Merge: 7bb8569c 97dfac5b
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Nov 19 11:26:20 2019 -0800
+
+    Merge branch 'master' into GregoryMobile
+
+commit 3e9e5f5c077fabd2e8d14287c3746389c7200d8f
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Tue Nov 19 10:10:41 2019 -0800
+
+    update to the prefab there I had a icon image that was not supported to be there
+
+commit 5ef06de7aba5913193f6ca54d8224382193fe8b6
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Mon Nov 18 18:25:13 2019 -0800
+
+    Drop down bar will lower
+
+commit 7bb8569c2776a85874ef761a045c6f62e7f680eb
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Mon Nov 18 17:35:19 2019 -0800
+
+    fixed WatsonStatus UI anchor
+
+commit b3c8a1d515270ecb6ded3fff7f9609a4ed44d7d3
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Mon Nov 18 17:21:11 2019 -0800
+
+    add watson text output, add "record" button behaviour
+
+commit 97dfac5b82409866007b4cac99104f3b8be9f0ab
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Nov 18 16:10:54 2019 -0800
+
+    Disabling OpenCV helper by default on Main Scene
+
+commit 6df0ec69d4a2ed6a93460d1ec5268459d260e7f4
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Mon Nov 18 16:02:42 2019 -0800
+
+    fixed tts status
+
+commit 62bcfc869c6e977082ca441071c9155a6fc52129
+Merge: c4d81440 f405e66d
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Mon Nov 18 16:01:15 2019 -0800
+
+    Merge pull request #8 from StayWell-Labs/pier-Unity
+    
+    Pier unity
+
+commit f405e66dc8515eadca8eaa2dd49c2f5c0740809f
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Nov 18 15:44:49 2019 -0800
+
+    Delete old TextToSpeechManager
+
+commit e685e6948b52309bd3384986219f941e86acb7f0
+Merge: 0501cec9 c4d81440
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Mon Nov 18 15:02:07 2019 -0800
+
+    Merge branch 'master' into pier-Unity
+    
+    # Conflicts:
+    #       .DS_Store
+    #       StayWell/Assets/StayWell/Graphics/AppManager.cs
+    #       StayWell/Assets/StayWell/Scenes/Main.unity
+    #       StayWell/Assets/StayWell/Scripts/TextToSpeechManager.cs
+    #       StayWell/Assets/StreamingAssets/AudioCache/0.wav
+    #       StayWell/Assets/StreamingAssets/conversations.json
+    #       StayWell/Assets/StreamingAssets/conversations.json.meta
+
+commit 0501cec9af0c2e86c51b20b99b70fdf7a47c0ece
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Mon Nov 18 14:41:15 2019 -0800
+
+    now has new icons and color test for the catalogs
+
+commit 12f75116406672e99f40453fc7e02e4334dfb950
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Mon Nov 18 13:44:25 2019 -0800
+
+    Face Detection working now
+
+commit c4d814404694e6fd262e11964e88fa9c33e9765c
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Nov 18 11:22:42 2019 -0800
+
+    Chat test work
+
+commit 4efae68e5d77a4beacb07ec7f1269f48719c705a
+Merge: 326c37cf e6de75ca
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Fri Nov 15 17:05:34 2019 -0800
+
+    Merge pull request #7 from StayWell-Labs/GregoryMobile
+    
+    Gregory mobile
+
+commit e6de75ca66c7cc74fca9488259ffe7a4135f6673
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Fri Nov 15 16:40:09 2019 -0800
+
+    removed settingsWindow from chatbot SDK, fixed watson status
+
+commit 39c6acdd13bae7fa0d52550b22007add17f2e46f
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 15 16:11:33 2019 -0800
+
+    worked on dropbox color and fades
+
+commit 326c37cf566d82f5f134360c297263c4af2b53c5
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Nov 15 15:56:40 2019 -0800
+
+    Chat test console update
+
+commit 73160b7b3133b789da20f34b5fc75040bd2fe812
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 15 15:42:20 2019 -0800
+
+    fad text for dropdown menu
+
+commit ded16e13d32c7c053590374380f6a855127e0a4b
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Fri Nov 15 15:14:28 2019 -0800
+
+    minor fix
+
+commit 0f29539edd6f2cd30888ef1e6344face18f59cfa
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Fri Nov 15 15:01:27 2019 -0800
+
+    removed settingsWindow referense from chatbot sdk
+
+commit 89714d4c07550450dd6300083713c4899b9052f9
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 15 14:28:42 2019 -0800
+
+    Dropdown menu working good now I need to do the chat text remember to add tags for more categories if you add them to the json file
+
+commit b2c82daef67bbd1f15c8c101e1231956fe80b4ee
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 15 12:44:11 2019 -0800
+
+    working good on drop down saving point..
+
+commit 9e41c59ce0757abedfe513cc983479669c981cbd
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Fri Nov 15 10:19:17 2019 -0800
+
+    fix texttospeechmanager
+
+commit 15e427e30a5af2dc7f681e2425ef20022b487219
+Merge: dd42d9fa 69aff7a1
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Fri Nov 15 10:16:31 2019 -0800
+
+    Merge branch 'master' into GregoryMobile
+    
+    # Conflicts:
+    #       StayWell/Assets/StayWell/Chat/ChatbotSDK/TextToSpeechManager.cs
+
+commit dd42d9fa93c221e56bb0a117bf87a5c75181e1f1
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Fri Nov 15 10:15:59 2019 -0800
+
+    minor change
+
+commit 69aff7a1da5204054c717f0074b3482978998e58
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 14 18:20:38 2019 -0800
+
+    stash them
+
+commit 1701d9f8f3cae4c4c6e63c482f83e2014e2abb8f
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 14 18:16:40 2019 -0800
+
+    I dont know what theres are
+
+commit bcd3716246a3eaa83ecee08834d9164045c60736
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 14 18:12:29 2019 -0800
+
+    Working on Custom Dropdown
+
+commit a072729a5619908ec021b25b6b0fe9cd904ffc81
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Nov 14 17:37:59 2019 -0800
+
+    updated the main scene
+
+commit 58ec2271a01ae128448b7c7b9c3c90df5ce76fa1
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Nov 14 17:34:30 2019 -0800
+
+    removed Clinician reference from chatbot SDK
+
+commit 58e8abbdcb2434c47d1a580c8e8bbfb970a9336f
+Merge: 62c1231c 36888997
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Nov 14 17:32:50 2019 -0800
+
+    Merge branch 'GregoryMobile' of https://github.com/StayWell-Labs/StayWell-CES into GregoryMobile
+
+commit 83c6f916a3c9b6e2f45b24a53590379d45beac30
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Nov 14 17:21:42 2019 -0800
+
+    Minor TTS correction
+
+commit 62c1231c65a253b73867598e3bf642a719caf73d
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Nov 14 17:18:22 2019 -0800
+
+    added timer to keep actual connection status
+
+commit 368889972153e27058808acc45010310f1ce9303
+Merge: 0a14ac8c 383106d9
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Nov 14 17:11:38 2019 -0800
+
+    Merge branch 'master' of https://github.com/StayWell-Labs/StayWell-CES
+
+commit 0a14ac8c36702bf34e55402bc1a61b604528945a
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Nov 14 17:09:17 2019 -0800
+
+    Moving chat logic around
+
+commit 383106d937a5774e6b0437212ea94bd8e1f14c0e
+Merge: 0766f021 671c9dce
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Thu Nov 14 16:39:12 2019 -0800
+
+    Merge pull request #6 from StayWell-Labs/GregoryMobile
+    
+    Gregory mobile
+
+commit 671c9dceabad0da1270725794ff77f7e54708325
+Merge: 13f86cf5 0766f021
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Nov 14 16:37:27 2019 -0800
+
+    Merge branch 'master' into GregoryMobile
+
+commit 0766f0219253b14b05b5a0e1c42385e4cb32e040
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Nov 14 16:11:02 2019 -0800
+
+    Start of chat test harness
+
+commit 13f86cf57cc2f957b15b439e2bfcc0e21449a6d4
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Nov 14 16:07:09 2019 -0800
+
+    added Running placeholders for TTS and Assistant services
+
+commit 63772f055f87a704a7e252aa8acb82b781a697d2
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Nov 14 15:36:48 2019 -0800
+
+    improved monitoring of STT service
+
+commit 98fc8252f0cb24eec08ad40a57a09ef566fbee53
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Nov 14 15:05:51 2019 -0800
+
+    minor change
+
+commit 2131044155be75c9596c1f55504739e35e91e6ba
+Merge: 2129c5db 2ccb4389
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Nov 14 15:03:12 2019 -0800
+
+    merge master, STT times out UI reflect
+
+commit 2129c5dba84f721bd100652dd4d3c1e7883aac62
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Nov 14 14:13:06 2019 -0800
+
+    minor change
+
+commit 131f641756c14e8f17b89ad9dd57677248e4a19b
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Nov 14 12:53:17 2019 -0800
+
+    add behaviour of watson status toggle
+
+commit 2ccb4389c1f56721783bee4a690849ad1cc6f684
+Merge: 39211421 15deef35
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Thu Nov 14 12:37:03 2019 -0800
+
+    Merge pull request #5 from StayWell-Labs/pier-heart-reader
+    
+    Pier heart reader and GAE work
+
+commit 41d1635283d3d0fd58f46efceaef7872fa75fd4f
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 14 11:58:22 2019 -0800
+
+    working on the chat questions
+
+commit eda1d82ec3c7f3055ffa4eb8ce2ccf0f2d470834
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Nov 14 11:06:00 2019 -0800
+
+    add settings window
+
+commit 39211421858158d439f0f0243caafb6c0508f482
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Nov 13 16:09:53 2019 -0800
+
+    Chat namespace update
+
+commit 0c04b58b360e9f785cd9038d1902aa15357132b1
+Merge: 542bd23f f5ea6bd2
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Nov 13 15:57:53 2019 -0800
+
+    merge with master
+
+commit 542bd23f7d6d87ed592023e50ca7a6dac921d8d9
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Nov 13 15:40:57 2019 -0800
+
+    minor fix
+
+commit f5ea6bd2ea4e4d52ae8273ad729c9d8434603579
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Nov 13 15:19:33 2019 -0800
+
+    Parsing chat spreadsheet
+
+commit 15deef3523cfa136221c1a04dab72afe64f10519
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Nov 13 15:11:51 2019 -0800
+
+    some changes to workspace
+
+commit 96701c9c29c21a4a8a047e1ba31d414736611b84
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Nov 13 14:57:24 2019 -0800
+
+    worked on some colors for the watch and text
+
+commit 18dab63c6911bd1d8b4794f26e88377e795f04ec
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Nov 13 14:39:01 2019 -0800
+
+    remove disconnect popup
+
+commit f3b279601f566cdc225832a5f059d02453f05986
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Nov 13 13:43:19 2019 -0800
+
+    disconnect popup
+
+commit 6ba467d8f99d58bb0cc38bff6f04caddb18fe414
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Nov 13 12:56:12 2019 -0800
+
+    worked on displaying table of results from NLP
+
+commit 89c6d724ff944e6f4aff9afb5f6f6f7c72e29d1d
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Nov 13 11:41:55 2019 -0800
+
+    this is working good i think {
+       "sensordata":"0000",
+       "sensorname":"heatrange",
+       "timestamp":"Wed, 13 Nov 2019 23:20:01 GMT"
+    }
+
+commit bed2521c4f3bd872556139b7b580d0d14c79b823
+Merge: 2102bbb9 a713ff9d
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Nov 13 09:47:56 2019 -0800
+
+    Merge branch 'pier-heart-reader' of https://github.com/StayWell-Labs/StayWell-CES into pier-heart-reader
+    
+    # Conflicts:
+    #       Health-Server/.idea/Health-Server.iml
+    #       Health-Server/main.py
+
+commit 2102bbb9baa6e7c3d177952110b40c89bbf551ed
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Tue Nov 12 18:15:28 2019 -0800
+
+    worked on the NLP and the results table but not finished thr NLP works good and working on the server side code
+
+commit 7924ea97d12dac7d1fdc7f8d540be50da2564200
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 12 18:14:05 2019 -0800
+
+    try to catch error
+
+commit 78e0dd2cf5e28a62f53626fde568961995233003
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Nov 12 16:36:10 2019 -0800
+
+    Merge, UI updates
+
+commit 85585ee3ee6e88173aed29a7ca24a8f9d8561d2b
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 12 16:04:05 2019 -0800
+
+    check connection
+
+commit c9afcdc5c150eafcec91860566c34df492e76303
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Nov 12 15:16:58 2019 -0800
+
+    Removing unused UMA plugin
+
+commit b2d0321640d3e3ba53d360bafe3c6a310a43c596
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Nov 12 15:10:52 2019 -0800
+
+    Scene updates
+
+commit 041c84fdc6597a17a9d1dee8b5df2b93107eb053
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Nov 12 14:40:10 2019 -0800
+
+    Help window update
+
+commit 1fb61ef1f0fece219dc9916e02d77c671eca93cd
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Nov 12 14:15:59 2019 -0800
+
+    Updating Settings
+
+commit ae37d20d7959f31cdddab4a0ece1909a430c79d3
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Nov 12 13:37:37 2019 -0800
+
+    Updating file locations
+
+commit c7181a5e45eebed4f3cdfb7cced2848be2d3718f
+Merge: 25d6ca1d cee36cdb
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Tue Nov 12 12:56:46 2019 -0800
+
+    Merge pull request #4 from StayWell-Labs/graphics-temp
+    
+    Graphics
+
+commit cee36cdb8dc820f1c4a165c6e0abed34b8b988ad
+Merge: ef92235b 25d6ca1d
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Nov 12 12:54:54 2019 -0800
+
+    Merge branch 'master' into graphics-temp
+
+commit 25d6ca1dbc038ef153a898f3cda588e0880223ad
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Nov 12 12:24:44 2019 -0800
+
+    Merge
+
+commit df3d3ba3eff6d2a92127c64a4f8d56d95f7fde92
+Merge: 01052018 4b73c23e
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Nov 12 12:21:06 2019 -0800
+
+    Merge branch 'master' of https://github.com/StayWell-Labs/StayWell-CES
+
+commit 01052018e079f1d923a16cf986209ff44cf119b9
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Nov 12 12:20:04 2019 -0800
+
+    Merge
+
+commit 4b73c23eec26dfbf0fa35c21397ebe6eb48ba0ee
+Merge: be093ac0 a713ff9d
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Tue Nov 12 12:16:28 2019 -0800
+
+    Merge pull request #3 from StayWell-Labs/pier-heart-reader
+    
+    Pier heart reader
+
+commit a713ff9d1a0ba743f02c1f680c37bb8ebf644683
+Merge: 28d496c8 be093ac0
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Nov 12 12:05:19 2019 -0800
+
+    Merge branch 'master' into pier-heart-reader
+
+commit be093ac06be9855f261d8f88440a2f295c005bb6
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Nov 12 11:56:32 2019 -0800
+
+    Health Server merge
+
+commit ef92235bc6078f3b8e9e311f09ab65fee55f1061
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Nov 12 11:06:08 2019 -0800
+
+    Graphics updates
+
+commit dc9313fb0377135e42e046e95e6908f37f99f9e5
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 12 10:50:11 2019 -0800
+
+    restore files
+
+commit e771fd7764bf6a2d33188f7eb1368ea1fc779249
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 12 10:45:42 2019 -0800
+
+    minor change
+
+commit 4dc29dd0f05b0403f5eb78b2643b78356708b86e
+Merge: ac92465e 4b7317c3
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 12 10:44:33 2019 -0800
+
+    Merge branch 'GregoryMobile' of https://github.com/StayWell-Labs/StayWell-CES into GregoryMobile
+    
+    # Conflicts:
+    #       StayWell/Assets/StayWell/Scripts/TextToSpeechManager.cs
+
+commit ac92465e414600c80a4dc2187cc17d92295ac3cf
+Merge: 6ab7c523 84ee1ee9
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 12 10:26:14 2019 -0800
+
+    Merge branch 'TestCharacter' of https://github.com/StayWell-Labs/StayWell-CES into TestCharacter
+    
+    # Conflicts:
+    #       StayWell/Assets/Airy UI/Editor.meta
+    #       StayWell/Assets/StayWell/Models/Latest model 10 29/catoon_Dr_for_Maya.meta
+    #       StayWell/Assets/StayWell/Models/Materials.meta
+    #       StayWell/Assets/StayWell/Models/Materials/Glasses.mat
+    #       StayWell/Assets/StayWell/Models/Staywell_Clinician_v01.fbx
+    #       StayWell/Assets/StayWell/Models/Staywell_Clinician_v01.fbx.meta
+    #       StayWell/Assets/StayWell/Scripts/Clinician/Clinician.cs
+    #       StayWell/Assets/StayWell/Scripts/StayWellManager.cs
+    #       StayWell/Assets/StayWell/Scripts/TextToSpeechManager.cs
+
+commit 4b7317c3ac386adc431a2f04d37d3433610ba3f2
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 12 10:22:03 2019 -0800
+
+    minor change
+
+commit 28d496c878d07de0bdcea862dee98ff13ad4ac15
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Mon Nov 11 18:29:01 2019 -0800
+
+    working on NLP stuff Tokenization is working
+
+commit 6ab7c5231d3d93708e70f06d19c94a02d73e3f00
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Mon Nov 11 16:09:57 2019 -0800
+
+    tts test
+
+commit 8619f797bf1f0a5ca70963ac3722355e7e66666c
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Mon Nov 11 14:11:58 2019 -0800
+
+    fixed the interactive player to goto the movie screen
+
+commit 4a4d679a79a9501e9005f4cecaeb46b97d1052d3
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Mon Nov 11 14:06:48 2019 -0800
+
+    I have the new UI Layout stuff and all the screen views working
+
+commit 542d2aae392db9f8c342e2d4c69649c3c173d553
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Mon Nov 11 13:23:25 2019 -0800
+
+    update setting code
+
+commit da619749c10d438fa2d1b58f51b1918ee9a8fbea
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Mon Nov 11 11:17:10 2019 -0800
+
+    minor change
+
+commit f46c56d287d56494bf8f896d53620bf46d214d01
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 8 18:34:27 2019 -0800
+
+    made users picker table
+
+commit 66470bf1faad13e4c5be91a5b0406af87817d781
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Fri Nov 8 17:36:44 2019 -0800
+
+    add response caching (clinician respons more faster the second time)
+
+commit e8b1cd4e6716661ef2e81085bb5ab65ebc324783
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 8 16:10:56 2019 -0800
+
+    worked on demo movie plays after the speech to text is working
+
+commit 1568c8b27f6ca39ff7877210666aafc139715712
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 7 18:23:57 2019 -0800
+
+    worked with more laypouts
+
+commit 66ab913ed6f1bed321cb21c817d6c57d90581113
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Nov 7 17:52:02 2019 -0800
+
+    minor change
+
+commit fddb3bc3a45f53ba089333540f4e64242e8d52ec
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Nov 7 16:49:18 2019 -0800
+
+    Apple Watch demo I have the movie working and the post and get from server
+
+commit e63e9574276137bb6dcd88704b34d63e32a2832b
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Thu Nov 7 15:54:40 2019 -0800
+
+    add clinician with new blendshapes
+
+commit 8817ddaef509df766d284b87512bc0700e3fd3ba
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Thu Nov 7 15:01:03 2019 -0800
+
+    Data SDK update
+
+commit 30946f2c3bb3b089b2e252ed1cca32f137e3d7a5
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Wed Nov 6 17:47:51 2019 -0800
+
+    Data SDK work
+
+commit 1b3fb82556d196ed3d9af7e2ccbccd50229582ce
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Nov 6 16:57:42 2019 -0800
+
+    animation minor change
+
+commit 5bbc8df1b0b7cdf08708525171c45fa4cc5d0444
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Nov 6 16:44:14 2019 -0800
+
+    enable UI
+
+commit ac54e3e7ae869739a44046a7fd3122a893fe1540
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Nov 6 16:41:13 2019 -0800
+
+    minor animation change
+
+commit 72709b8c47ba7d1da5179075ca0e19886322687a
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Nov 6 15:54:20 2019 -0800
+
+    add camera orbit & follow camera, update sunglasses
+
+commit d32a76986554debb3468a1610df6d80e0a677475
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Nov 6 13:07:30 2019 -0800
+
+    add look anchor, add eyelid animation, add test emotions
+
+commit 8ac4c943013d24b3539346c444b222b7f25a69a7
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Nov 6 11:38:24 2019 -0800
+
+    test eyelid
+
+commit e36bd8735f1ff5b3a08deb0d7389f9d7a5a51289
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Nov 6 10:22:38 2019 -0800
+
+    finished the timstamp with user and backend code and new animations with fitbit UI all working
+
+commit 602f1132425efd7cfbe49bca1f94cfb06894891a
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 5 17:56:36 2019 -0800
+
+    minor change (updated timeline position)
+
+commit b3453be11f9ad211855e4152194b34bb2cb18c0f
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 5 17:47:27 2019 -0800
+
+    improve mouth animation (teeth) + head idle animation
+
+commit 9a3bcb64665ffec5a535c00a28113302a112cd14
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 5 17:45:26 2019 -0800
+
+    improve mouth animation
+
+commit d5754e4d6a6b3a626bdd355e9b6bb57d2c877f27
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 5 15:39:06 2019 -0800
+
+    update mouth animation (add teeth)
+
+commit 0fa8061fdbfe0d888c61b8a4c10f8abb5095d8b5
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 5 15:38:14 2019 -0800
+
+    update mouth animation (add teeth moving)
+
+commit 534d2ecf0e7e5054978f637655b6d3c8dc25665d
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 5 14:39:02 2019 -0800
+
+    add character to scene
+
+commit c6682431afb196c329c9647a2c2b11fbddc12615
+Merge: abd017fa dc1f57b7
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 5 14:00:47 2019 -0800
+
+    Merge branch 'master' into GregoryMobile
+
+commit abd017fa9ecfd608a4090b725c823a9af576e573
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 5 14:00:40 2019 -0800
+
+    minor change
+
+commit dc1f57b7f530be5c0aad2d97fc92b3838f4cebe2
+Merge: 5ab77498 e47244e9
+Author: curtis-sw <56850643+curtis-sw@users.noreply.github.com>
+Date:   Tue Nov 5 13:37:53 2019 -0800
+
+    Merge pull request #1 from StayWell-Labs/graphics
+    
+    Graphics
+
+commit 84ee1ee9aacd86d5b9c88c1abb0a5f3e8ac00f4d
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Nov 5 11:58:17 2019 -0800
+
+    test teeth animation
+
+commit 55cf5b966c772c75b302bdc04d7411f4fa0bfb30
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Tue Nov 5 10:28:10 2019 -0800
+
+    fixed the setting from not showing up
+
+commit c488f4d34797a792b0152939cad83134b1643fac
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Tue Nov 5 10:05:49 2019 -0800
+
+    finished the heart beat name of user on watch and settings on companion
+
+commit e47244e993a90f9ae2645260471c88603e72b2ac
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Nov 4 17:26:18 2019 -0800
+
+    First UI demo
+
+commit 77d27f538b5b7ad084b66d58504ea8f1d34b719e
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Mon Nov 4 17:20:25 2019 -0800
+
+    Vectrosity
+
+commit ce6a24bb6ca8f0ab5ff5a014d6218bacf9d71ac8
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Mon Nov 4 11:52:12 2019 -0800
+
+    now you can put you name in the text box and get the right data back for each user
+
+commit 264d65fcdd6dcd880ebe387bfcc7a69d9d215ff5
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Mon Nov 4 09:59:42 2019 -0800
+
+    added input test
+
+commit 5896c6b47618e13b727e0f5fc8a8e645dc0787de
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 1 18:07:52 2019 -0700
+
+    i added in so you can type in your name
+
+commit 5ab7749897a6d6bf5fc78fea9cffb4909f906e28
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Nov 1 14:38:11 2019 -0700
+
+    More third party plugins
+
+commit 2dc69dddbcf51b19b1ebac63b9148f5323e6cd50
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Nov 1 14:02:25 2019 -0700
+
+    Small merge update
+
+commit 29d2bc4337b185011209aeb26d6fd6e7529c584a
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Nov 1 14:01:18 2019 -0700
+
+    Merge update
+
+commit 767f2fc49babd054542a9b279b31642ad7da0cd8
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Fri Nov 1 13:19:36 2019 -0700
+
+    character test
+
+commit f87cda5e048812e7dc2774254af75a25cec73c36
+Merge: 26aa85cd 48cf75e5
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Nov 1 12:41:36 2019 -0700
+
+    Merge branch 'master' of https://github.com/StayWell-Labs/StayWell-CES
+
+commit 26aa85cd35d6f5d36167b599f49df22b9f3d7319
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Nov 1 12:41:29 2019 -0700
+
+    Chatbot scene
+
+commit 48cf75e5e0c8e2fb8d7d15c9c185c6fc80f8489e
+Merge: 977bd81c 8f09815f
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 1 11:05:57 2019 -0700
+
+    Merge branch 'master' of https://github.com/StayWell-Labs/StayWell-CES
+
+commit 977bd81c53890f44d002654f7fae5eec82537749
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 1 11:05:34 2019 -0700
+
+    ConsoleController text to space
+
+commit 2ca6754e075455e5b157a9581e9626ce48ea2e4b
+Merge: dadca3a2 20223fc4
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 1 11:05:03 2019 -0700
+
+    Merge branch 'master' of https://github.com/StayWell-Labs/StayWell-CES
+
+commit 8f09815f1a7bba644a3799e34369811e440f5afa
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Nov 1 10:59:49 2019 -0700
+
+    First server pass
+
+commit dadca3a2082fadb7aac0a3e776ff4e6972537def
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Fri Nov 1 10:56:21 2019 -0700
+
+    I made the modle have some max and mis for talking and I slowed donw the console message boxs pre word
+    
+    I made the modle have some max and mis for talking and I slowed donw the console message boxs pre word
+
+commit 20223fc443003a48d09a8b312960fcf42df3550d
+Merge: be9da4f9 0eb4545c
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Nov 1 10:25:40 2019 -0700
+
+    Merge branch 'master' of https://github.com/StayWell-Labs/StayWell-CES
+
+commit be9da4f9c184ce81191e1249cbfc88a69ec7953e
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Nov 1 10:23:50 2019 -0700
+
+    Basic server setup
+
+commit 0eb4545c4f89cb9bd487ca39e6062e4a728413af
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Thu Oct 31 14:53:04 2019 -0700
+
+    have watch sending data to unity all working
+    
+    have watch sending data to unity all working
+
+commit 8e1c47daed3036fe2c87bb1c44631fb4736ed564
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Oct 30 17:48:08 2019 -0700
+
+    I have all the messaging from companion to app working with server
+
+commit 292126222d498b369395810afe5eaa91d9643403
+Author: pier shaw <pier@staywelllabs.com>
+Date:   Wed Oct 30 16:17:38 2019 -0700
+
+    fitbit start
+    
+    fitbit start
+
+commit 318e8ef34aaf8ff158b760ae71af1f462953009a
+Merge: 781ada76 62b15a78
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Oct 30 14:52:31 2019 -0700
+
+    Merge branch 'master' of https://github.com/StayWell-Labs/StayWell-CES
+
+commit 781ada7651e282bcb4032bcc90c246059760dbcf
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Oct 30 14:40:28 2019 -0700
+
+    gitattributes changed
+
+commit e1f9502d6251b54b1878fb6fb5168193fa5665ec
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Wed Oct 30 14:39:44 2019 -0700
+
+    add character
+
+commit 62b15a7835637be2bbfed30b8b266604204bdcfd
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Tue Oct 29 17:42:26 2019 -0700
+
+    Basic server test app
+
+commit 99b0b70371abc0e30e8a611e1e873e4af31de61a
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Tue Oct 29 12:33:40 2019 -0700
+
+    console mode. final
+
+commit 78c5cee593ce0b1d2c487c25c5b43eff7e977524
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Mon Oct 28 17:42:07 2019 -0700
+
+    uodate
+
+commit 2873f9cd8d75c71cf69c73a6df090ca72d5806ae
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Mon Oct 28 17:41:42 2019 -0700
+
+    add: speech to text, text to speech, watson assistant, console mode
+
+commit 09f9502eeb24e11e82183fa8d6f5eeead6ab5e20
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Mon Oct 28 12:11:07 2019 -0700
+
+    add watson assistant credentials
+
+commit a820c26037742b8eb95419360f71875e79a9737f
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Mon Oct 28 10:48:34 2019 -0700
+
+    minor change
+
+commit d2ed2ab5717ef21b435190c1ccba0abe96c64bed
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Sat Oct 26 11:53:03 2019 -0700
+
+    Test Watson Assistant
+
+commit 1bcc907f3b8dcd4dd4f7790cc904f7d24ad15872
+Merge: d9efcf33 92c41111
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Fri Oct 25 18:09:41 2019 -0700
+
+    Merge branch 'master' into GregoryMobile
+
+commit 92c411110d5ffab6efdee18221be04a129b2e919
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Oct 25 17:40:16 2019 -0700
+
+    Start of Watson setup
+
+commit d9efcf338521b5c1f4d04220215496a5b5edebf6
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Fri Oct 25 17:37:20 2019 -0700
+
+    change folder structure
+
+commit 444e71f60c0a72904819504ac199cd34d46030d3
+Author: Gregory <gregory@staywelllabs.com>
+Date:   Fri Oct 25 17:32:12 2019 -0700
+
+    test
+
+commit 250cebce4dfec648c61d6457c7aaca4dfc398ad1
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Oct 25 16:14:47 2019 -0700
+
+    Latest Watson SDK
+
+commit 977b07ba1d6a70449dab3763c800288641928727
+Author: curtis-sw <curtis@staywelllabs.com>
+Date:   Fri Oct 25 12:48:29 2019 -0700
+
+    Update Unity version
+
+commit 7801f0fe49ec2b85d6a7daeb6bc8964127845028
+Author: Curtis <curtis@staywelllabs.com>
+Date:   Fri Oct 25 13:16:28 2019 -0600
+
+    Settings file setup
